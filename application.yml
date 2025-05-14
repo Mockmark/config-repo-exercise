@@ -1,0 +1,23 @@
+# ===================================================================
+# Config Client Application Configuration
+# This file is loaded AFTER bootstrap.yml
+# ===================================================================
+
+# You can define application-specific properties here.
+# These can serve as default values and can be overridden by
+# configuration fetched from the Config Server.
+
+# Example of a default property:
+# my:
+#   greeting: Default greeting from client's application.yml
+
+# Configure the server port if not specified in bootstrap.yml or the Config Server
+# server:
+#   port: 8080
+
+# Other application-specific configurations...
+
+# Note: Properties related to connecting to the Config Server (like
+# spring.cloud.config.uri and spring.application.name) are typically
+# defined in bootstrap.yml, NOT here.
+
