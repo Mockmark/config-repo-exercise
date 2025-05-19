@@ -1,0 +1,5 @@
+# Properties specific to my-config-client
+my:
+  greeting: Hello from the Config Server (from my-config-client.yml)!
+environment:
+  name: Staging

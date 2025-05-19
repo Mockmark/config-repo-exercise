@@ -22,3 +22,6 @@
 # defined in bootstrap.yml, NOT here.
 
 # my-config-client.yml in your Git repository
+# Global properties for all applications
+common:
+  setting: This is a shared value
