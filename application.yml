@@ -22,5 +22,3 @@
 # defined in bootstrap.yml, NOT here.
 
 # my-config-client.yml in your Git repository
-app.greeting: Hello from the Config Server!
-app.environment: Development
